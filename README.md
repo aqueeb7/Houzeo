@@ -80,6 +80,7 @@ npm run dev
 
 | Method | URL | Description |
 |:------|:---|:-------------|
+| POST | `/signup` | Signup with name, email and password | 
 | POST | `/login` | Login with email and password, returns JWT token |
 | POST | `/submit-form` | Submit a form with text data + file upload |
 | GET | `/submissions` | Get all form submissions (protected route) |
