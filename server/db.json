@@ -1,0 +1,146 @@
+{
+  "users": [
+    {
+      "id": 123456789,
+      "name": "Aqueeb",
+      "email": "aqueeb@example.com",
+      "password": "$2b$10$....",
+      "token": null
+    },
+    {
+      "id": 1745410655890,
+      "name": "aqueev",
+      "email": "aqueeb@gmail.com",
+      "password": "$2b$10$mF5nw53CrY7A1NvkAugONefSzmWHEtIK7N/ygRMVUs/tUC8c3NRgO",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTc0NTQxMDY1NTg5MCwibmFtZSI6ImFxdWVldiIsImVtYWlsIjoiYXF1ZWViQGdtYWlsLmNvbSIsImlhdCI6MTc0NTc3Mjg3NiwiZXhwIjoxNzQ1Nzc2NDc2fQ.OQQ3BgaK0vnQ6vIs26n3wM8-0unoVzWEr1sGfqZ8fas"
+    }
+  ],
+  "submissions": [
+    {
+      "id": 1745484950404,
+      "groups": [
+        {
+          "name": "MD Aqueeb",
+          "email": "aq@aq.aq",
+          "mobileNumber": "(096) 317-4695"
+        },
+        {
+          "name": "MD Aqueeb",
+          "email": "aa@aa.aa",
+          "mobileNumber": "(096) 317-4695"
+        }
+      ],
+      "birthDate": "2025-04-01",
+      "gender": "male",
+      "languages": [
+        "Angular",
+        "VueJS",
+        "ReactJS"
+      ],
+      "city": [
+        "New York",
+        "Los Angeles",
+        "Chicago",
+        "Houston"
+      ],
+      "file": {
+        "originalName": "Aqueeb's Resume_V1.pdf",
+        "mimeType": "application/pdf",
+        "path": "uploads/Aqueeb's Resume_V1.pdf"
+      }
+    },
+    {
+      "id": 1745485004912,
+      "groups": [
+        {
+          "name": "MD Aqueeb",
+          "email": "aq@aq.ab",
+          "mobileNumber": "(096) 317-4695"
+        },
+        {
+          "name": "MD Aqueeb",
+          "email": "aa@aa.ab",
+          "mobileNumber": "(096) 317-4695"
+        }
+      ],
+      "birthDate": "2025-04-01",
+      "gender": "female",
+      "languages": [
+        "VueJS"
+      ],
+      "city": [
+        "Los Angeles",
+        "Chicago"
+      ],
+      "file": {
+        "originalName": "e-EPIC_ZVO1833078.pdf",
+        "mimeType": "application/pdf",
+        "path": "uploads/e-EPIC_ZVO1833078.pdf"
+      }
+    },
+    {
+      "id": 1745485145175,
+      "groups": [
+        {
+          "name": "MD Aqueeb",
+          "email": "as@as.as",
+          "mobileNumber": "(096) 317-4695"
+        },
+        {
+          "name": "akib",
+          "email": "ak@ak.ak",
+          "mobileNumber": "(987) 456-3210"
+        }
+      ],
+      "birthDate": "2025-04-03",
+      "gender": "other",
+      "languages": [
+        "VueJS",
+        "ReactJS"
+      ],
+      "city": [
+        "New York",
+        "Los Angeles",
+        "Chicago",
+        "Houston"
+      ],
+      "file": {
+        "originalName": "test.pdf",
+        "mimeType": "application/pdf",
+        "path": "uploads/test.pdf"
+      }
+    },
+    {
+      "id": 1745766910047,
+      "groups": [
+        {
+          "name": "Aqueeb",
+          "email": "as@as.as",
+          "mobileNumber": "(970) 829-9933"
+        },
+        {
+          "name": "john",
+          "email": "john@gmail.com",
+          "mobileNumber": "(789) 654-1230"
+        }
+      ],
+      "birthDate": "2025-04-16",
+      "gender": "male",
+      "languages": [
+        "Angular",
+        "VueJS",
+        "ReactJS"
+      ],
+      "city": [
+        "New York",
+        "Los Angeles",
+        "Chicago"
+      ],
+      "file": {
+        "originalName": "Form8_S04188O8C0404241200032.pdf.pdf",
+        "mimeType": "application/pdf",
+        "path": "uploads/Form8_S04188O8C0404241200032.pdf.pdf"
+      }
+    }
+  ]
+}
