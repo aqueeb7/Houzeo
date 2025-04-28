@@ -3,6 +3,19 @@
 This project includes a **Vue 3 + Vite Frontend** and a simple **Express + JSON File Backend** for submitting form data (with file uploads), user login, authentication, and displaying submitted forms without reloading the page.
 
 ---
+## 🛠️ How to Set Up
+
+1. Clone the Repository
+
+```bash
+git clone https://github.com/aqueeb7/Houzeo.git
+```
+
+2. Change the directory
+```bash
+cd Houzeo
+```
+---
 
 ## 🏗 Folder Structure
 
