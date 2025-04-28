@@ -90,8 +90,11 @@ npm run dev
 
 ## 🔥 Full App Workflow
 
+- **Signup Screen:**
+  - Users need to register in using name, email and password.
+
 - **Login Screen:**
-  - Users log in using email and password (hardcoded in db.json).
+  - Users log in using email and password.
   - If login fails, a Bootstrap alert shows "Invalid email or password."
 
 - **Form Submission Page (`/main`):**
